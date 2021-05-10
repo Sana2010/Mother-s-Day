@@ -1,0 +1,85 @@
+body 
+{
+margin: 0;
+padding-top: 500px;
+text-align: center;
+}
+
+#start
+{
+position: absolute;
+overflow: hidden;
+height: 200px;
+color: white;
+top: 0;
+background: linear-gradient(#ccffcc 0%, #ffff66 100%);
+display: table;
+width: 100%;
+z-index: 9;
+}
+
+h1
+{
+font-size: 50px;
+color: darkgreen;
+}
+
+#Logo
+{
+width: 150px;
+height: 160px;
+border-radius: 90px;
+margin-top: 90px;
+margin-bottom: 30px;
+}
+
+#about
+{
+font-size: 30px;
+margin-left: 150px;
+margin-right: 150px;
+}
+
+#best_mom
+{
+width: 400px;
+height: 500px;
+}
+
+#mother
+{
+font-size: 30px;
+margin-left: 150px;
+margin-right: 150px;
+}
+
+#quote_1
+{
+width: 400px;
+height: 350px;
+}
+
+#quote_2
+{
+width: 400px;
+height: 350px;
+}
+
+#quote_3
+{
+width: 400px;
+height: 350px;
+}
+
+#quote_4
+{
+width: 400px;
+height: 350px;
+}
+
+#surprise
+{
+font-size: 30px;
+margin-left: 150px;
+margin-right: 150px;
+}
